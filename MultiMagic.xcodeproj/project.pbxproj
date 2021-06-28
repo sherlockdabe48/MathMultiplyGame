@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9E40E0FF26898657008920FE /* wrong.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E40E0FA26898657008920FE /* wrong.png */; };
+		9E40E10026898657008920FE /* setting.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E40E0FB26898657008920FE /* setting.png */; };
+		9E40E10126898657008920FE /* result.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E40E0FC26898657008920FE /* result.png */; };
+		9E40E10226898657008920FE /* correct.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E40E0FD26898657008920FE /* correct.png */; };
+		9E40E10326898657008920FE /* play.png in Resources */ = {isa = PBXBuildFile; fileRef = 9E40E0FE26898657008920FE /* play.png */; };
 		9E9D91B22685987400EB8352 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9D91B12685987400EB8352 /* AppDelegate.swift */; };
 		9E9D91B42685987400EB8352 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9D91B32685987400EB8352 /* SceneDelegate.swift */; };
 		9E9D91B62685987400EB8352 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9D91B52685987400EB8352 /* ContentView.swift */; };
@@ -16,6 +21,12 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9E40E0F9268985E0008920FE /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		9E40E0FA26898657008920FE /* wrong.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = wrong.png; sourceTree = "<group>"; };
+		9E40E0FB26898657008920FE /* setting.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = setting.png; sourceTree = "<group>"; };
+		9E40E0FC26898657008920FE /* result.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = result.png; sourceTree = "<group>"; };
+		9E40E0FD26898657008920FE /* correct.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = correct.png; sourceTree = "<group>"; };
+		9E40E0FE26898657008920FE /* play.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = play.png; sourceTree = "<group>"; };
 		9E9D91AE2685987300EB8352 /* MultiMagic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MultiMagic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E9D91B12685987400EB8352 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9E9D91B32685987400EB8352 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +51,7 @@
 		9E9D91A52685987300EB8352 = {
 			isa = PBXGroup;
 			children = (
+				9E40E0F9268985E0008920FE /* README.md */,
 				9E9D91B02685987300EB8352 /* MultiMagic */,
 				9E9D91AF2685987300EB8352 /* Products */,
 			);
@@ -62,6 +74,11 @@
 				9E9D91B72685987400EB8352 /* Assets.xcassets */,
 				9E9D91BC2685987400EB8352 /* LaunchScreen.storyboard */,
 				9E9D91BF2685987400EB8352 /* Info.plist */,
+				9E40E0FD26898657008920FE /* correct.png */,
+				9E40E0FE26898657008920FE /* play.png */,
+				9E40E0FC26898657008920FE /* result.png */,
+				9E40E0FB26898657008920FE /* setting.png */,
+				9E40E0FA26898657008920FE /* wrong.png */,
 				9E9D91B92685987400EB8352 /* Preview Content */,
 			);
 			path = MultiMagic;
@@ -133,7 +150,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				9E9D91BE2685987400EB8352 /* LaunchScreen.storyboard in Resources */,
+				9E40E10326898657008920FE /* play.png in Resources */,
+				9E40E0FF26898657008920FE /* wrong.png in Resources */,
+				9E40E10226898657008920FE /* correct.png in Resources */,
+				9E40E10126898657008920FE /* result.png in Resources */,
 				9E9D91BB2685987400EB8352 /* Preview Assets.xcassets in Resources */,
+				9E40E10026898657008920FE /* setting.png in Resources */,
 				9E9D91B82685987400EB8352 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
