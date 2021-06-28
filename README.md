@@ -6,15 +6,15 @@ This is the game for train your math multiply from table 1 to 12, Enjoy!
 <img src="./MultiMagic/setting.png" width="600" height="600"> 
 
 ### Tim to play!
-![play](./MultiMagic/play.png)
+<img src="./MultiMagic/play.png" width="600" height="600"> 
 
 ### Correct!
-![correct](./MultiMagic/correct.png)
+<img src="./MultiMagic/correct.png" width="600" height="600"> 
 
 ### Wrong!
-![wrong](./MultiMagic/wrong.png)
+<img src="./MultiMagic/wrong.png" width="600" height="600"> 
 
 ### Your result, and you can play the next level, the same level again, or you can set a new game.
-![result](./MultiMagic/result.png)
+<img src="./MultiMagic/result.png" width="600" height="600"> 
 
 
