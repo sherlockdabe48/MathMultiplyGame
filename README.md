@@ -3,7 +3,7 @@
 This is the game for train your math multiply from table 1 to 12, Enjoy!
 
 ### You can set your game on setting page( table you wanna play, number of questions)
-<img src="./MultiMagic/setting.png" width="100" height="100"> 
+<img src="./MultiMagic/setting.png" width="400" height="400"> 
 
 ### Tim to play!
 ![play](./MultiMagic/play.png)
